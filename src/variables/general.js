@@ -197,7 +197,7 @@ export const rtlTimelineData = [
 export const tablesTableData = [
   {
     logo: avatar1,
-    name: "Esthera Jackson",
+    name: "Sina Ghaffari",
     email: "alexa@simmmple.com",
     subdomain: "Manager",
     domain: "Organization",

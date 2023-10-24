@@ -1,0 +1,9 @@
+1. add toggle dark mode button to navbar 
+2. delete input search from navbar 
+3. add button change language to navbar 
+4. add i18 for change language to project 
+5. change direction when click to toggle change language 
+6. fix sidebar ui 
+7. fix table size 
+8. fix fixed position to navbar in dashboard  
+9. delete setting button 

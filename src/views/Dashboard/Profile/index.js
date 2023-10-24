@@ -1,6 +1,6 @@
 // Chakra imports
 import { Flex, Grid, useColorModeValue } from "@chakra-ui/react";
-import avatar4 from "assets/img/avatars/avatar4.png";
+import avatar4 from "assets/img/avatars/avatar5.png";
 import ProfileBgImage from "assets/img/ProfileBackground.png";
 import React from "react";
 import { FaCube, FaPenFancy } from "react-icons/fa";
@@ -25,8 +25,8 @@ function Profile() {
         backgroundHeader={ProfileBgImage}
         backgroundProfile={bgProfile}
         avatarImage={avatar4}
-        name={"Esthera Jackson"}
-        email={"esthera@simmmple.com"}
+        name={"Sina Ghaffari"}
+        email={"sinaghafari.dev@gmail.com"}
         tabs={[
           {
             name: "OVERVIEW",
@@ -51,12 +51,12 @@ function Profile() {
         <ProfileInformation
           title={"Profile Information"}
           description={
-            "Hi, I’m Esthera Jackson, Decisions: If you can’t decide, the answer is no. If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality)."
+            "Hi, I’m Sina Ghaffari, Decisions: If you can’t decide, the answer is no. If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality)."
           }
-          name={"Esthera Jackson"}
-          mobile={"(44) 123 1234 123"}
-          email={"esthera@simmmple.com"}
-          location={"United States"}
+          name={"Sina Ghaffari"}
+          mobile={"0991 250 8255"}
+          email={"sinaghafari.dev@gmail.com"}
+          location={"Tehran"}
         />
         <Conversations title={"Conversations"} />
       </Grid>
